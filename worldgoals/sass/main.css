@@ -1,0 +1,29 @@
+* {
+    font-family: 'Verdana';
+    width: 75%; 
+}
+
+body{
+    background-color: #002855;  
+    flex-direction: row | column;
+    display: flex;
+    margin: auto;
+}
+
+svg {
+    fill: rgb(15, 7, 7);
+    width: 40%;
+    float: left;
+    padding: 5px;
+    
+    
+}
+
+a {
+    cursor: pointer;
+    color: white;
+}
+h1{
+color: black;
+}
+
